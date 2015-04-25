@@ -1,10 +1,9 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Bill E. Dawson
+email: info@bedawson.com
 description: Email geek. Speaker. Techie. User Advocate.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: billedawson
+url: "http://billedawson.github.io
 github_username:  billedawson
 
 # Build settings
