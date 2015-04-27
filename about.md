@@ -4,8 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Bill E. Dawson has almost 20 years managing and developing software solutions for Fortune 500 companies. The last 8 years have been focused on the email industry, helping email marketers develop effective campaigns, helping email service providers produce software and helping companies integrate email into their workflows.
