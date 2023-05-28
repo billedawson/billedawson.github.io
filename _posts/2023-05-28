@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Jekyll or something new?"
+date:   2023-05-28 17:39:29
+categories: jekyll blog
+---
+
+Looking at alternatives to Jekyll, so I don't have to maintain a Ruby environment and add unneeded libraries to my machine.
+1. Maybe a Docker container?
+2. Maybe 11ty instead?
+
+### Why am I maintaining this thing?
