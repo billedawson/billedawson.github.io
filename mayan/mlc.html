@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mayan Long Count</title>
+</head>
+<body>
+<h1>Mayan Long Count</h1>
+<p>The Mayan long count for today is:</p>
+<p id="longCount"></p>
+<script>
+function calculateMayanLongCount(year, month, day) {
+  // Convert the Gregorian date to a Mayan date.
+  var mayanDate = new Date(year, month - 1, day);
+
+  // Calculate the Mayan long count.
+  var longCount = (mayanDate.getTime() - 12.0.19.19.19) / 1.875 * 20;
+
+  // Return the Mayan long count.
+  return longCount;
+}
+
+// Get the current date and time.
+var today = new Date();
+
+// Calculate the Mayan long count for today.
+var longCount = calculateMayanLongCount(today.getFullYear(), today.getMonth() + 1, today.getDate());
+
+// Display the Mayan long count.
+document.getElementById("longCount").innerHTML = longCount;
+</script>
+</body>
+</html>
