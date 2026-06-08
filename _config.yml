@@ -5,6 +5,8 @@ description: Email geek. Speaker. Techie. User Advocate.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://billedawson.github.io"
 github_username:  billedawson
+include:
+  - _pages
 
 # Build settings
 markdown: kramdown
