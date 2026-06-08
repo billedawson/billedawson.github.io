@@ -7,5 +7,6 @@ The following directories and their contents are Copyright Bill E. Dawson. You m
 
 ```
 _posts/
+_pages/
 images
 ```
