@@ -1,10 +1,14 @@
 # Site settings
 title: Bill E. Dawson
 email: info@bedawson.com
-description: Email geek. Speaker. Techie. User Advocate.
+description: Educator. Startup Coach. Angel Investor.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://billedawson.github.io"
-github_username:  billedawson
+twitter_username:  billedawson
+linkedin_username:  billedawson
+
+include:
+  - _pages
 
 # Build settings
 markdown: kramdown
